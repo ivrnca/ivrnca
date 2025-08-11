@@ -1,4 +1,4 @@
-<h1 align="center">hey there 👋 I'm Griv</h1>
+<h1 align="center">Hey there 👋 I'm Griv</h1>
 <p align="center"><i>AI Engineer | ML • MLOps • Full Stack Dev</i></p>
 
 ---
